@@ -1,10 +1,7 @@
 # blackhole-ultra
 Aggressive Windows disk cleanup script for enterprise environments
-# BLACKHOLE
 
-Enterprise Windows disk cleanup script.
-
-Because sometimes the helpdesk ticket **"my hard drive is full"** happens one too many times.
+Because sometimes **"my hard drive is full"** happens one too many times.
 
 ---
 
