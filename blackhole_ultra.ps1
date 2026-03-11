@@ -1,7 +1,6 @@
 # =========================
 # BLACKHOLE_ULTRA.ps1
 # enterprise storage destroyer, you have been warned 1000 times.
-# written by "That IT Guy"
 # ========
 
 $log="C:\Windows\Temp\blackhole_ultra_log.txt"
@@ -25,7 +24,7 @@ Your computer drive is full.....again.
 
 The IT department is performing automatic cleanup.
 
-Files not in 'My Documents' may be relocated or purged.
+Files not in 'My Documents' may be relocated or removed.
 
 If I have to come back here again there will be nothing left.
 
@@ -33,9 +32,6 @@ You have 30 seconds.
 
 Respectfully,
 IT",
-"IT STORAGE ENFORCEMENT",
-"OK",
-"Warning"
 )
 
 Start-Sleep 30
